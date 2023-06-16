@@ -1,4 +1,4 @@
-import { Validator } from '../js/app';
+import Validator from '../js/app';
 
 test.each([
   ['username', true],
